@@ -17,3 +17,15 @@ body {
   border-radius: 8px;
   padding: 12px 25px;
 }
+.categories {
+  margin-top: 80px;
+}
+.item-1 {
+  background-color: #ffa500;
+}
+.item-2 {
+  background-color: #da70d6;
+}
+.item-3 {
+  background-color: #0000ff;
+}
